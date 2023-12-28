@@ -64,3 +64,9 @@ group :development do
   # gem "spring"
 end
 
+gem 'tailwindcss-rails', '~> 2.1'
+gem 'simple_form', '~> 5.3'
+gem 'simple_form-tailwind', '~> 0.1.1'
+gem 'autoprefixer-rails', '~> 10.4', '>= 10.4.16.0'
+gem 'font-awesome-sass', '~> 6.5', '>= 6.5.1' # for icons
+gem 'sprig', '~> 0.3.1' # for seeds
