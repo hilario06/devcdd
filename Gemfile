@@ -72,3 +72,4 @@ gem 'font-awesome-sass', '~> 6.5', '>= 6.5.1' # for icons
 gem 'sprig', '~> 0.3.1' # for seeds
 
 gem 'devise', '~> 4.9', '>= 4.9.3' # for authentication
+gem 'annotate', '~> 3.2' # for annotating models
